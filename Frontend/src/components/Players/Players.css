@@ -1,0 +1,42 @@
+.players-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.bloc {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.bloc h3 {
+    margin-bottom: 10px;
+    color: #4caf50;
+}
+
+.bloc input {
+    margin: 5px 0;
+    padding: 10px;
+    width: calc(100% - 22px);
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.bloc button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.bloc button:hover {
+    background-color: #45a049;
+}
